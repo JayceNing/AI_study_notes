@@ -7,10 +7,11 @@
 目录
 ========
 
-[PyTorch基础](#PyTorch基础)
-[Transformer](#Transformer)
-[ConvMixer](#ConvMixer)
-[【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
+* [PyTorch基础](#PyTorch基础)
+* [CNN](#CNN)
+* [Transformer](#Transformer)
+* [ConvMixer](#ConvMixer)
+* [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
 
 
 ## PyTorch基础
@@ -31,6 +32,12 @@
   * 14_保存与加载PyTorch训练的模型和超参数
   * 15_Dropout原理及其源码实现
   * 16_PyTorch中进行卷积残差模块算子融合
+
+## CNN
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 22_PyTorch nn.Conv2d卷积网络使用教程
+  * 23_手写并验证滑动相乘实现PyTorch二维卷积
+  * 24_手写并验证向量内积实现PyTorch二维卷积
   
 ## Transformer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
