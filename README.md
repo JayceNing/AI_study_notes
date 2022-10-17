@@ -38,10 +38,17 @@
   * 22_PyTorch nn.Conv2d卷积网络使用教程
   * 23_手写并验证滑动相乘实现PyTorch二维卷积
   * 24_手写并验证向量内积实现PyTorch二维卷积
+  * 25_手写实现nn.TransposedConv转置卷积
+  * 26_手写卷积与转置卷积的代码总结
+  * 27_手写实现PyTorch的DilatedConv和GroupConv
   
 ## Transformer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * P_18~P_21: Transformer难点理解与实现：https://www.bilibili.com/video/BV1o44y1Y7cp/?spm_id_from=333.788&vd_source=18e91d849da09d846f771c89a366ed40
+  
+## Vision Transformer(ViT)
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 28_Vision Transformer(ViT)模型原理及PyTorch逐行实现
   
 ## ConvMixer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
