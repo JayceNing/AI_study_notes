@@ -9,7 +9,9 @@
 
 * [PyTorch基础](#PyTorch基础)
 * [CNN](#CNN)
+* [RNN](#RNN)
 * [Transformer](#Transformer)
+* [Vision Transformer(ViT)](#Vision-Transformer(ViT))
 * [ConvMixer](#ConvMixer)
 * [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
 
@@ -42,6 +44,10 @@
   * 26_手写卷积与转置卷积的代码总结
   * 27_手写实现PyTorch的DilatedConv和GroupConv
   
+## RNN
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 29_PyTorch RNN的原理及其手写复现
+
 ## Transformer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * P_18~P_21: Transformer难点理解与实现：https://www.bilibili.com/video/BV1o44y1Y7cp/?spm_id_from=333.788&vd_source=18e91d849da09d846f771c89a366ed40
