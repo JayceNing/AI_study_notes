@@ -13,6 +13,7 @@
 * [Transformer](#Transformer)
 * [Vision Transformer(ViT)](#Vision-Transformer(ViT))
 * [ConvMixer](#ConvMixer)
+* [ConvNeXt](#ConvNeXt)
 * [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
 
 
@@ -59,6 +60,12 @@
 ## ConvMixer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 17_ConvMixer模型原理及其PyTorch逐行实现：https://www.bilibili.com/video/BV1K34y1o74P/?spm_id_from=pageDriver&vd_source=18e91d849da09d846f771c89a366ed40
-  
+
+## ConvNeXt
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 38_ConvNeXt论文导读与模型精讲
+  * 39_ConvNeXt模型代码逐行讲解
+  * 40_ConvNeXt分布式训练代码逐行讲解
+
 ## 【北邮版CS231N】深度学习与数字视频
  * 来自北京邮电大学门爱东2022秋季学期研究生课程 
