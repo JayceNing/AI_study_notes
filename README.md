@@ -14,6 +14,7 @@
 * [Vision Transformer(ViT)](#Vision-Transformer(ViT))
 * [ConvMixer](#ConvMixer)
 * [ConvNeXt](#ConvNeXt)
+* [U-Net](#U-Net)
 * [Diffusion Models](#Diffusion-Models)
 * [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
 
@@ -68,9 +69,15 @@
   * 39_ConvNeXt模型代码逐行讲解
   * 40_ConvNeXt分布式训练代码逐行讲解
 
+## U-Net
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 56_U-Net用于图像分割以及人声伴奏分离原理代码讲解
+
 ## Diffusion Models
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 54_Probabilistic_Diffusion_Model概率扩散模型理论与完整PyTorch代码详细解读
+  * 57_Autoregressive_Diffusion_Model自回归扩散模型用于序列预测论文讲解
+  * 58_Improved_Diffusion的PyTorch代码逐行深入讲解
 
 ## 【北邮版CS231N】深度学习与数字视频
  * 来自北京邮电大学门爱东2022秋季学期研究生课程 
