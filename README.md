@@ -8,6 +8,7 @@
 ========
 
 * [PyTorch基础](#PyTorch基础)
+* [Loss Function](#Loss-Function)
 * [CNN](#CNN)
 * [RNN](#RNN)
 * [Transformer](#Transformer)
@@ -38,6 +39,10 @@
   * 15_Dropout原理及其源码实现
   * 16_PyTorch中进行卷积残差模块算子融合
 
+## Loss Function
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】
+  * 55_PyTorch的交叉熵、信息熵、二分类交叉熵、负对数似然、KL散度、余弦相似度的原理与代码讲解
+  
 ## CNN
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 22_PyTorch nn.Conv2d卷积网络使用教程
