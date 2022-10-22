@@ -16,6 +16,7 @@
 * [ConvMixer](#ConvMixer)
 * [ConvNeXt](#ConvNeXt)
 * [U-Net](#U-Net)
+* [ResNet](#ResNet)
 * [Diffusion Models](#Diffusion-Models)
 * [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
 
@@ -77,6 +78,10 @@
 ## U-Net
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 56_U-Net用于图像分割以及人声伴奏分离原理代码讲解
+
+## ResNet
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 41_ResNet模型精讲以及PyTorch复现逐行讲解
 
 ## Diffusion Models
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
