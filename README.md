@@ -82,6 +82,7 @@
 ## ResNet
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 41_ResNet模型精讲以及PyTorch复现逐行讲解
+  * 51_基于PyTorch_ResNet18的果蔬分类逐行代码讲解
 
 ## Diffusion Models
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
