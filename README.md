@@ -13,6 +13,7 @@
 * [RNN](#RNN)
 * [Transformer](#Transformer)
 * [Vision Transformer(ViT)](#Vision-Transformer(ViT))
+* [Masked Auto Encoder(MAE)](#Masked-Auto-Encoder(MAE))
 * [ConvMixer](#ConvMixer)
 * [ConvNeXt](#ConvNeXt)
 * [U-Net](#U-Net)
@@ -64,6 +65,11 @@
 ## Vision Transformer(ViT)
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 28_Vision Transformer(ViT)模型原理及PyTorch逐行实现
+  
+## Masked Auto Encoder(MAE)
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 42_Masked_AutoEncoder(MAE)论文导读与模型详细介绍
+  * 43_逐行讲解Masked_AutoEncoder(MAE)的PyTorch代码
   
 ## ConvMixer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
