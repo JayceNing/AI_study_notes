@@ -40,6 +40,7 @@
   * 14_保存与加载PyTorch训练的模型和超参数
   * 15_Dropout原理及其源码实现
   * 16_PyTorch中进行卷积残差模块算子融合
+  * 52_Excel/Csv文件数据转成PyTorch张量导入模型代码逐行讲解
 
 ## Loss Function
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】
