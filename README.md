@@ -102,5 +102,8 @@
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 59_基于CLIP_ViT模型搭建相似图像检索系统
 
+* 来自b站up主 迪哥带你学CV 神器CLIP为多模态领域带来了哪些革命？迪哥2小时精讲OpenAI神器—CLIP模型，原理详解+代码复现！:
+  * CLIP 模型解读 (HuggingFace Transformers 库 CLIP 演示)
+
 ## 【北邮版CS231N】深度学习与数字视频
  * 来自北京邮电大学门爱东2022秋季学期研究生课程 

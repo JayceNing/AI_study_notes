@@ -1,3 +1,6 @@
+.ipynb_checkpoints
+__pycache__/
+
 # datasets
 PyTorch基础/data
 ResNet/fruit_and_vegetable_data/raw
