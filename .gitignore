@@ -13,3 +13,7 @@ ResNet/fruit_and_vegetable_data/test
 CLIP/fruit_and_vegetable_data/raw
 CLIP/fruit_and_vegetable_data/train
 CLIP/fruit_and_vegetable_data/test
+GCNN/.data
+
+# checkpoints
+GCNN/logs_imdb_text_classification
