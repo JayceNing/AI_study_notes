@@ -59,10 +59,14 @@
 ## RNN
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 29_PyTorch RNN的原理及其手写复现
+  
+## LSTM
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 30_PyTorch_LSTM和LSTMP的原理及其手写复现
 
 ## Transformer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
-  * P_18~P_21: Transformer难点理解与实现：https://www.bilibili.com/video/BV1o44y1Y7cp/?spm_id_from=333.788&vd_source=18e91d849da09d846f771c89a366ed40
+  * P_18~P_21: Transformer难点理解与实现
   
 ## Vision Transformer(ViT)
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
@@ -75,7 +79,7 @@
   
 ## ConvMixer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
-  * 17_ConvMixer模型原理及其PyTorch逐行实现：https://www.bilibili.com/video/BV1K34y1o74P/?spm_id_from=pageDriver&vd_source=18e91d849da09d846f771c89a366ed40
+  * 17_ConvMixer模型原理及其PyTorch逐行实现
 
 ## ConvNeXt
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
