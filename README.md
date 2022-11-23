@@ -11,6 +11,8 @@
 * [Loss Function](#Loss-Function)
 * [CNN](#CNN)
 * [RNN](#RNN)
+* [LSTM](#LSTM)
+* [GRU](#GRU)
 * [Transformer](#Transformer)
 * [Vision Transformer(ViT)](#Vision-Transformer(ViT))
 * [Masked Auto Encoder(MAE)](#Masked-Auto-Encoder(MAE))
@@ -64,6 +66,10 @@
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 30_PyTorch_LSTM和LSTMP的原理及其手写复现
 
+## GRU
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 31_PyTorch_GRU的原理及其手写复现
+  
 ## Transformer
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * P_18~P_21: Transformer难点理解与实现
