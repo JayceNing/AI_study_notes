@@ -21,7 +21,7 @@
 * [ConvNeXt](#ConvNeXt)
 * [U-Net](#U-Net)
 * [ResNet](#ResNet)
-* [Diffusion Models](#Diffusion-Models)
+* [Diffusion_Models](#Diffusion-Models)
 * [CLIP](#CLIP)
 * [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
 
@@ -112,6 +112,8 @@
   * 54_Probabilistic_Diffusion_Model概率扩散模型理论与完整PyTorch代码详细解读
   * 57_Autoregressive_Diffusion_Model自回归扩散模型用于序列预测论文讲解
   * 58_Improved_Diffusion的PyTorch代码逐行深入讲解
+  * 62_Score_Diffusion_Model分数扩散模型理论与完整PyTorch代码详细解读
+  * 63_必看！概率扩散模型(DDPM)与分数扩散模型(SMLD)的联系与区别
 
 ## CLIP
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
