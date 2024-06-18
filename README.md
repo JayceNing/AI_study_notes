@@ -21,6 +21,7 @@
 * [ConvNeXt](#ConvNeXt)
 * [U-Net](#U-Net)
 * [ResNet](#ResNet)
+* [VAE](#VAE)
 * [Diffusion_Models](#Diffusion-Models)
 * [CLIP](#CLIP)
 * [【北邮版CS231N】深度学习与数字视频](#【北邮版CS231N】深度学习与数字视频)
@@ -107,6 +108,10 @@
   * 41_ResNet模型精讲以及PyTorch复现逐行讲解
   * 51_基于PyTorch_ResNet18的果蔬分类逐行代码讲解
 
+## VAE
+* 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
+  * 68_VQVAE预训练模型的论文原理及PyTorch代码逐行讲解
+  
 ## Diffusion Models
 * 来自b站up主deep_thoughts 合集【PyTorch源码教程与前沿人工智能算法复现讲解】:
   * 54_Probabilistic_Diffusion_Model概率扩散模型理论与完整PyTorch代码详细解读
